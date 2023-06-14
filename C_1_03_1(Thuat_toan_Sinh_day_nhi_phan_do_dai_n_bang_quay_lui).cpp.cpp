@@ -10,7 +10,7 @@ const ll MOD = 1e9+7;
 const ll base = 31;
 
 //phần nhập dữ liệu vào
-ll n, x[1000001];//khai báo biến n chứa độ dài và dãy x chứa cấu hình nhị phân 
+ll n, X[1000001];//khai báo biến n chứa độ dài và dãy x chứa cấu hình nhị phân 
 void input()
 {
 	cin >> n;//nhập vào độ dài của dãy nhị phân cần sinh 
