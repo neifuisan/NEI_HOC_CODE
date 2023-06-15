@@ -1,4 +1,7 @@
 # NEI_HOC_CODE
+link github của anh Đạt đẹp trai
+https://github.com/ldss13/lds/tree/main
+
 Code c++ kèm lời giảng đến con gián còn hiểu.
 thứ tự học:
 
